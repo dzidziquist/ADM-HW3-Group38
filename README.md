@@ -2,7 +2,7 @@
 
 ## Find the perfect place to stay in Texas!
 
-We created search engines to assist user to find the perfect place to stay in Texas based on the user's inputed queries.
+We created search engines to assist users find the perfect place to stay in Texas based on the users' inputed queries.
 
-Kindly find the attached the ipynb file and the url to the Map Visualization 
+Kindly find the attached the the urls to the search engine and  the Map Visualization 
 http://nbviewer.jupyter.org/github/dzidziquist/ADM-HW3-Group38/blob/master/mapp.html
